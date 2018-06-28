@@ -1,6 +1,6 @@
 # New Site Template
 
-[TODO. There will be project description]
+This is a offline version of the [Jumbotron Template for Bootstrap](http://getbootstrap.com/examples/jumbotron), which not need Internet connection for working with it.
 
 # Project Goals
 
